@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\obj\Debug\net6.0\56MinSumRow.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\obj\Debug\net6.0\56MinSumRow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\obj\Debug\net6.0\56MinSumRow.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\obj\Debug\net6.0\56MinSumRow.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\obj\Debug\net6.0\56MinSumRow.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\bin\Debug\net6.0\56MinSumRow.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\bin\Debug\net6.0\56MinSumRow.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\bin\Debug\net6.0\56MinSumRow.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\bin\Debug\net6.0\56MinSumRow.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\bin\Debug\net6.0\56MinSumRow.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\obj\Debug\net6.0\56MinSumRow.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\obj\Debug\net6.0\refint\56MinSumRow.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\obj\Debug\net6.0\56MinSumRow.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\obj\Debug\net6.0\56MinSumRow.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\56MinSumRow\obj\Debug\net6.0\ref\56MinSumRow.dll
