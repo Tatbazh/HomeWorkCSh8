@@ -27,33 +27,52 @@ void PrintArray(int[,] inArray)
 
 int[] SumRows(int[,] inArray)
 {
-    int[] arraySumRow = new int[inArray.GetLength(0)];    
-    int sumRow = 0;
-    for (int index = 0; index < arraySumRow.Length; index++)
-    {        
-        for (int i = 0; i < inArray.GetLength(0); i++)
+    int[] arraySums = new int[inArray.GetLength(0)];
+    int sum = 0;
+    for (int i = 0; i < inArray.GetLength(0); i++)
+    {
+        sum = 0;
+        for (int j = 0; j < inArray.GetLength(1); j++)
         {
-            for (int j = 0; j < inArray.GetLength(1); j++)
-            {
-                sumRow += inArray[i, j];                                
-            }
-            arraySumRow[index] = sumRow;  
-            sumRow = 0;          
-        } 
-        return arraySumRow;            
-    }    
-     
+            sum += inArray[i, j];
+        }
+        arraySums[i] = sum;
+    }
+    return arraySums;
 }
 
-void FindMinSum (int[] sumsRows)
+int FindMinInArray(int[,] inArray)
+{
+    
+    int sum = 0;
+    int minSum = 0;
+
+    for (int i = 0; i < inArray.GetLength(0); i++)
+    {
+        sum = 0;
+        for (int j = 0; j < inArray.GetLength(1); j++)
+        {
+            sum += inArray[i, j];
+        }
+        if (minSum > sum || minSum == 0)
+        {
+            minSum = sum;
+        }
+
+    }
+
+    return minSum;
+}
+
+void FindMinSum(int[] sumsRows)
 {
     int min = sumsRows[0];
     for (int i = 1; i < sumsRows.Length; i++)
-    {        
+    {
         if (sumsRows[i] < min)
-        min = sumsRows[i];        
-        Console.WriteLine($"минимум: {min}");
-    }    
+            min = sumsRows[i];
+    }
+    Console.WriteLine($"минимум: {min}");
 }
 
 Console.Write("Введите количество строк в массиве:");
@@ -68,3 +87,5 @@ Console.WriteLine();
 int[] arraySums = SumRows(userArray);
 Console.WriteLine(String.Join(" ", arraySums));
 FindMinSum(arraySums);
+//Console.WriteLine(FindMinInArray(userArray));
+
