@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\obj\Debug\net6.0\58matriza.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\obj\Debug\net6.0\58matriza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\obj\Debug\net6.0\58matriza.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\obj\Debug\net6.0\58matriza.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\obj\Debug\net6.0\58matriza.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\bin\Debug\net6.0\58matriza.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\bin\Debug\net6.0\58matriza.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\bin\Debug\net6.0\58matriza.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\bin\Debug\net6.0\58matriza.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\bin\Debug\net6.0\58matriza.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\obj\Debug\net6.0\58matriza.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\obj\Debug\net6.0\refint\58matriza.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\obj\Debug\net6.0\58matriza.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\obj\Debug\net6.0\58matriza.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\58matriza\obj\Debug\net6.0\ref\58matriza.dll
