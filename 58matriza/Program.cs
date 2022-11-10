@@ -30,7 +30,7 @@ int[,] MultipArray(int[,] arrayA, int[,] arrayB)
     if (arrayB.GetLength(0) != arrayA.GetLength(1)) //rowsB=columnsA; rowA=rowMult; colB=colMult
     {
         Console.WriteLine("Матрицы перемножить невозможно. Число строк матрицы №1 должно быть равно числу столбцов матрицы №2");
-        return arrayA;
+        return null;
     }
     else
     {
@@ -66,6 +66,10 @@ int[,] userArraySecond = RandomGetArray(row2, col2, 0, 10);
 PrintArray(userArraySecond);
 Console.WriteLine();
 
-Console.WriteLine("Произведение матрицы №1 и №2: ");
+
 int[,] arrayResult = MultipArray(userArrayFirst, userArraySecond);
-PrintArray(arrayResult);
+if (arrayResult != null) 
+{
+    Console.WriteLine("Произведение матрицы №1 и №2: ");
+    PrintArray(arrayResult);
+}

@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\obj\Debug\net6.0\62SpiralGetArray.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\obj\Debug\net6.0\62SpiralGetArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\obj\Debug\net6.0\62SpiralGetArray.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\obj\Debug\net6.0\62SpiralGetArray.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\obj\Debug\net6.0\62SpiralGetArray.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\bin\Debug\net6.0\62SpiralGetArray.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\bin\Debug\net6.0\62SpiralGetArray.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\bin\Debug\net6.0\62SpiralGetArray.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\bin\Debug\net6.0\62SpiralGetArray.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\bin\Debug\net6.0\62SpiralGetArray.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\obj\Debug\net6.0\62SpiralGetArray.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\obj\Debug\net6.0\refint\62SpiralGetArray.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\obj\Debug\net6.0\62SpiralGetArray.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\obj\Debug\net6.0\62SpiralGetArray.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh8\homework\62SpiralGetArray\obj\Debug\net6.0\ref\62SpiralGetArray.dll
