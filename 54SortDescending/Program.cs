@@ -45,9 +45,9 @@ void SortRow(int[,] inArray)
     }
 }
 
-Console.Write("Введите количество строк в массиве:");
+Console.Write("Введите количество строк в массиве: ");
 int row = int.Parse(Console.ReadLine()!);
-Console.Write("Введите количество столбцов в массиве:");
+Console.Write("Введите количество столбцов в массиве: ");
 int col = int.Parse(Console.ReadLine()!);
 
 int[,] userArray = GetArray(row, col, 0, 10);

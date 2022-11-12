@@ -41,12 +41,10 @@ int[] SumRows(int[,] inArray)
     return arraySums;
 }
 
-int FindMinInArray(int[,] inArray)
-{
-    
+int FindMinInArray(int[,] inArray) //находим мин сумму сразу, без выведения промежуточных
+{    
     int sum = 0;
     int minSum = 0;
-
     for (int i = 0; i < inArray.GetLength(0); i++)
     {
         sum = 0;
@@ -58,26 +56,28 @@ int FindMinInArray(int[,] inArray)
         {
             minSum = sum;
         }
-
     }
-
     return minSum;
 }
 
 void FindMinSum(int[] sumsRows)
 {
     int min = sumsRows[0];
+    int index = 0;
     for (int i = 1; i < sumsRows.Length; i++)
     {
         if (sumsRows[i] < min)
+        {
             min = sumsRows[i];
+            index = i;
+        }
     }
-    Console.WriteLine($"минимум: {min}");
+    Console.WriteLine($"№ строки с наименьшей суммой элементов: {index}");
 }
 
-Console.Write("Введите количество строк в массиве:");
+Console.Write("Введите количество строк в массиве: ");
 int row = int.Parse(Console.ReadLine()!);
-Console.Write("Введите количество столбцов в массиве:");
+Console.Write("Введите количество столбцов в массиве: ");
 int col = int.Parse(Console.ReadLine()!);
 
 int[,] userArray = GetArray(row, col, 0, 10);
@@ -85,7 +85,7 @@ PrintArray(userArray);
 Console.WriteLine();
 
 int[] arraySums = SumRows(userArray);
-Console.WriteLine(String.Join(" ", arraySums));
+Console.WriteLine($"Суммы строк массива: {String.Join(" ", arraySums)}");
 FindMinSum(arraySums);
 //Console.WriteLine(FindMinInArray(userArray));
 

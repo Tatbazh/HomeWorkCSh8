@@ -1,11 +1,11 @@
 ﻿// Задача 62: Заполните спирально массив 4 на 4.
-int[,] RandomGetArray(int m, int n, int minValue, int maxValue)
+int[,] GetArray(int m, int n, int minValue, int maxValue)
 {
     int[,] result = new int[m, n];
     for (int i = 0; i < m; i++)
         for (int j = 0; j < n; j++)
         {
-            result[i, j] = new Random().Next(minValue, maxValue + 1);
+            if ()
         }
     return result;
 }
@@ -22,6 +22,6 @@ void PrintArray(int[,] inArray)
     }
 }
 
-int[,] userArray = RandomGetArray(4, 4, 0, 10);
+int[,] userArray = GetArray(4, 4, 0, 16);
 PrintArray(userArray);
 Console.WriteLine();
